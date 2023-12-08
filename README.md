@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # Getting Started with Create React App
 
 1. Select your desired password length
@@ -7,6 +5,8 @@
 3. Generate your new Password
 4. Copy to Clipboard
 5. Enjoy your new password
+
+![Bildschirmfoto 2023-12-08 um 15 18 54](https://github.com/stefanselic/react-password-generator/assets/129748801/da697e53-e579-42f2-94bb-c6ae7f002b7c)
 
 ## Available Scripts
 
