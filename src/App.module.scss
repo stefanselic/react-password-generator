@@ -1,0 +1,85 @@
+/** @format */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mainContainer {
+  padding-top: 200px;
+  background-color: rgba(83, 70, 170, 0.4);
+  height: 100vh;
+}
+
+.container {
+  width: 350px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 6px -1px #0000001a;
+}
+
+.generator {
+  border-radius: 3px;
+  background: #23235b;
+  box-shadow: 0px 2px 10px (255, 255, 255, 0.2);
+  padding: 20px;
+}
+.generatorHeader {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.generatorPassword {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 13px 10px;
+  color: #fff;
+  margin-bottom: 15px;
+}
+.generatorButton {
+  position: absolute;
+  background: #3b3b98;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  height: 40px;
+  top: 2px;
+  right: 2px;
+  cursor: pointer;
+}
+
+.generatePasswordButton {
+  background-color: #3b3b98;
+  border: none;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  color: #fff;
+  font-size: 17px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.formGroup {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  margin-bottom: 5px;
+  input[type='number'] {
+    width: 40px;
+  }
+
+  &:last-of-type {
+    margin-bottom: 25px;
+  }
+}
+
+label {
+  cursor: pointer;
+  user-select: none;
+}
