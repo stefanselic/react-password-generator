@@ -1,6 +1,12 @@
+<!-- @format -->
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Select your desired password length
+2. Select at least one of the 4 character options the password should include
+3. Generate your new Password
+4. Copy to Clipboard
+5. Enjoy your new password
 
 ## Available Scripts
 
